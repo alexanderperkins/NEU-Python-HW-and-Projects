@@ -1,0 +1,83 @@
+Guess the 5 letter word: champion
+***Error***
+You did not enter a 5 letter word. Please enter a 5 letter word only: break
+_r___
+_G___
+b e a k 
+Nice try! You have 5 guesses left.
+Guess the 5 letter word: wrote
+_r___
+_G___
+b e a k w o t 
+Nice try! You have 4 guesses left.
+Guess the 5 letter word: stray
+__r__
+__Y__
+b e a k w o t s y 
+Nice try! You have 3 guesses left.
+Guess the 5 letter word: crumb
+crum_
+GGGG_
+b e a k w o t s y 
+Nice try! You have 2 guesses left.
+Guess the 5 letter word: crump
+crump
+GGGGG
+b e a k w o t s y 
+You won! It took you 5 tries.
+Want to play again (Y/N)? y
+Guess the 5 letter word: munch
+_____
+_____
+m u n c h 
+Nice try! You have 5 guesses left.
+Guess the 5 letter word: break
+_rea_
+_YYY_
+m u n c h b k 
+Nice try! You have 4 guesses left.
+Guess the 5 letter word: irate
+_rate
+_YYYY
+m u n c h b k i 
+Nice try! You have 3 guesses left.
+Guess the 5 letter word: eaten
+_ate_
+_GGG_
+m u n c h b k i 
+Nice try! You have 2 guesses left.
+Guess the 5 letter word: rates
+rate_
+GGGG_
+m u n c h b k i s 
+Nice try! You have 1 guesses left.
+Guess the 5 letter word: rated
+rate_
+GGGG_
+m u n c h b k i s d 
+Nice try! You have 0 guesses left.
+You lose. Better luck next time! Secret word was:  rater
+Want to play again (Y/N)? y
+Guess the 5 letter word: chump
+_____
+_____
+c h u m p 
+Nice try! You have 5 guesses left.
+Guess the 5 letter word: brake
+b____
+G____
+c h u m p r a k e 
+Nice try! You have 4 guesses left.
+Guess the 5 letter word: bites
+bit__
+GGG__
+c h u m p r a k e s 
+Nice try! You have 3 guesses left.
+Guess the 5 letter word: bitty
+bitty
+GGGGG
+c h u m p r a k e s 
+You won! It took you 4 tries.
+Want to play again (Y/N)? n
+You won 2 times and lost 1 times!
+
